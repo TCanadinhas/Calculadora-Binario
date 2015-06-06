@@ -1,0 +1,9 @@
+c:\users\talita\documents\visual studio 2012\Projects\CalculadoraBinaria\CalculadoraBinaria\bin\Debug\CalculadoraBinaria.exe.config
+c:\users\talita\documents\visual studio 2012\Projects\CalculadoraBinaria\CalculadoraBinaria\bin\Debug\CalculadoraBinaria.exe
+c:\users\talita\documents\visual studio 2012\Projects\CalculadoraBinaria\CalculadoraBinaria\bin\Debug\CalculadoraBinaria.pdb
+c:\users\talita\documents\visual studio 2012\Projects\CalculadoraBinaria\CalculadoraBinaria\obj\Debug\CalculadoraBinaria.csprojResolveAssemblyReference.cache
+c:\users\talita\documents\visual studio 2012\Projects\CalculadoraBinaria\CalculadoraBinaria\obj\Debug\CalculadoraBinaria.Form1.resources
+c:\users\talita\documents\visual studio 2012\Projects\CalculadoraBinaria\CalculadoraBinaria\obj\Debug\CalculadoraBinaria.Properties.Resources.resources
+c:\users\talita\documents\visual studio 2012\Projects\CalculadoraBinaria\CalculadoraBinaria\obj\Debug\CalculadoraBinaria.csproj.GenerateResource.Cache
+c:\users\talita\documents\visual studio 2012\Projects\CalculadoraBinaria\CalculadoraBinaria\obj\Debug\CalculadoraBinaria.exe
+c:\users\talita\documents\visual studio 2012\Projects\CalculadoraBinaria\CalculadoraBinaria\obj\Debug\CalculadoraBinaria.pdb
